@@ -2,11 +2,12 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer 💻
+Sou um Front-End Developer 💻
 
-- 📚  Atualmente estudando NextJS;
-- 💻  Trabalhando com HTML, CSS, JS no front-end e PHP + MySQL no back-end;
-- 🚀  2 Next Level Week completas;
-- 📘  Cursando Desenvolvimento de Sistemas (Integrado ao Ensino Médio) pela ETEC. 
+- 📚  Atualmente estudando **NextJS** e **React Native**;
+- 💻  Sou experiente em HTML, CSS, JS e tenho conhecimento de Bootstrap;
+- ⚛️  Colocando em prática conceitos do React;
+- 🚀  4 Next Level Week completas;
+- 📘  Cursando o **último ano** em Desenvolvimento de Sistemas (Integrado ao Ensino Médio) pela Escola Técnica Estadual de São Paulo;
 -->
 

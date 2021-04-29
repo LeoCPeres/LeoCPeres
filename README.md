@@ -9,5 +9,5 @@ Sou um Front-End Developer 💻
 - ⚛️  Colocando em prática conceitos do React;
 - 🚀  4 Next Level Week completas;
 - 📘  Cursando o **último ano** em Desenvolvimento de Sistemas (Integrado ao Ensino Médio) pela Escola Técnica Estadual de São Paulo;
--->
+
 

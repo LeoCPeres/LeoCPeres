@@ -2,12 +2,12 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Front-End Developer 💻
+Front-End Developer 💻
 
-- 📚  Atualmente estudando **NextJS** e **React Native**;
-- 💻  Sou experiente em HTML, CSS, JS e tenho conhecimento de Bootstrap;
-- ⚛️  Colocando em prática conceitos do React;
+- 📚  Atualmente estudando e trabalhando com **ASP NET** e **C#**;
+- 💻  Sou experiente em HTML, CSS, JS, ReactJS, React Native e NextJS;
 - 🚀  5 Next Level Week completas;
 - 📘  Cursando o **último ano** em Desenvolvimento de Sistemas (Integrado ao Ensino Médio) pela Escola Técnica Estadual de São Paulo;
+- 👨‍💻  Trabalhando na Coreon IT
 
 

@@ -4,11 +4,11 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Front-End Developer 💻
 
-- 📚  Atualmente estudando e trabalhando com **ASP NET** e **C#**;
+- 📚  Atualmente estudando e trabalhando com **ASP NET Core** e **C#**;
 - 💻  Sou experiente em HTML, CSS, JS, ReactJS, React Native e NextJS;
 - 🚀  5 Next Level Week completas;
-- 💜  Estudando ReactJS no #Ignite
-- 📘  Cursando o **último ano** em Desenvolvimento de Sistemas (Integrado ao Ensino Médio) pela Escola Técnica Estadual de São Paulo;
-- 👨‍💻  Trabalhando na Coreon IT
+- 💜  Estudando ReactJS no #Ignite da @rocketseat;
+- 📘  Formado em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC);
+- 👨‍💻  Trabalhando na Coreon IT;
 
 

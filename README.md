@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Full Stack Developer 💻
+Sou um Full Stack Developer 💻
 
 - 📚  Atualmente estudando e trabalhando com **ASP NET Core** e **C#**;
 - 💻  Sou experiente em HTML, CSS, JS, ReactJS, React Native e NextJS;

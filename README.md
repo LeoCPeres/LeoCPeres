@@ -11,7 +11,7 @@ Sou um Full Stack Developer 💻
 - 📘  Formado em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC);
 - 👨‍💻  Trabalhando na Coreon IT;
 <div>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=LeoCPeres&show_icons=true&theme=dark%22/%3E
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCPeres&layout=compact&theme=dark%22/%3E
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=leocperes&show_icons=true&theme=dark"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocperes&layout=compact&theme=dark"/>
 </div>
 

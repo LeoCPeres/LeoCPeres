@@ -10,5 +10,8 @@ Sou um Full Stack Developer 💻
 - 💜  Estudando ReactJS no <a href="https://www.rocketseat.com.br/ignite"> #Ignite</a> da <a href="https://github.com/Rocketseat">@rocketseat;</a>
 - 📘  Formado em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC);
 - 👨‍💻  Trabalhando na Coreon IT;
-
+<div>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=LeoCPeres&show_icons=true&theme=dark%22/%3E
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoCPeres&layout=compact&theme=dark%22/%3E
+</div>
 

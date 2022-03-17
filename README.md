@@ -9,6 +9,7 @@ Sou um Full Stack Developer 💻
 - 🚀  5 Next Level Week completas;
 - 💜  Estudando ReactJS no <a href="https://www.rocketseat.com.br/ignite"> #Ignite</a> da <a href="https://github.com/Rocketseat">@rocketseat;</a>
 - 📘  Formado em Desenvolvimento de Sistemas pela Escola Técnica de São Paulo (ETEC);
+- 🤓  Cursando Superior em Análise e Desenvolvimento de Sistemas 1/4
 - 👨‍💻  Trabalhando na Coreon IT;
 <div>
   <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=leocperes&show_icons=true&theme=dark"/>

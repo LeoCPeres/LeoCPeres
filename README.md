@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-<p>Sou um Full Stack Developer há 2 anos 💻</p>
+<p>Sou um Full Stack Developer há 3 anos 💻</p>
 <p>Atualmente com 20 anos de idade, programando desde os 15 🫡</p>
 
 - 📚  Atualmente trabalhando com **ReactJS**, **React Native**, **C# .NET 6**, **Angular** e **SQL Server**;
